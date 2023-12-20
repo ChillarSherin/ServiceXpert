@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">ServiceXpert</string>
+    <string name="app_heading">Welcome User !</string>
+    <string name="compy">chillar payments solutions pvt ltd</string>
+    <string name="currency">₹</string>
+
+    <!--  HEAD-->
+    <string name="version">"Version\u0020"</string>
+    <string name="alert_heading">Are you sure?</string>
+    <string name="otp_head">enter verification code</string>
+    <string name="register_head">register your shop</string>
+    <string name="add_staff_head">add staff</string>
+    <string name="bank_head">beneficiary details</string>
+    <string name="map_head">shop location</string>
+    <string name="time_head">working hours</string>
+    <string name="booking_head">view appointment</string>
+    <string name="book_head">today\'s booking list</string>
+    <string name="staff_head">staff booking report</string>
+    <string name="staff_view">our staffs</string>
+    <string name="staff_sele">select staff</string>
+    <string name="book_info">booking information</string>
+    <string name="book_appointment">book appointment</string>
+    <string name="sales_report">sales report</string>
+    <string name="estimate">estimate bill</string>
+    <string name="serv_req">required service</string>
+    <string name="est_qr">please use QR code for payment</string>
+
+    <string name="mobile_number">mobile number</string>
+    <string name="enter_mobile_number">enter mobile number</string>
+    <string name="enter_otp">enter OTP</string>
+    <string name="otp_expired">OTP expired</string>
+    <string name="enter_shop_name">shop name</string>
+    <string name="enter_shop_add">shop building name</string>
+    <string name="enter_shop_street">shop street name</string>
+    <string name="enter_shop_city">shop city</string>
+    <string name="enter_shop_state">shop state</string>
+    <string name="enter_shop_dist">shop district</string>
+    <string name="enter_shop_pin">shop pin code</string>
+    <string name="enter_shop_email">email address</string>
+    <string name="enter_shop_loc">pin shop location</string>
+    <string name="enter_bank_acc">bank account number</string>
+    <string name="enter_bank_acc_re">re-enter bank account number</string>
+    <string name="enter_bank_ifsc">IFSC code</string>
+    <string name="enter_bank_name">bank account holder’s name</string>
+    <string name="enter_staff_name">staff name</string>
+    <string name="enter_staff_mob">staff mobile number</string>
+    <string name="enter_staff_ser">choose service</string>
+    <string name="enter_staff_rate">service charge</string>
+    <string name="enter_staff_hours">working hours</string>
+
+    <string name="monday">monday</string>
+    <string name="tuesday">tuesday</string>
+    <string name="wednesday">wednesday</string>
+    <string name="thursday">thursday</string>
+    <string name="friday">friday</string>
+    <string name="saturday">saturday</string>
+    <string name="sunday">sunday</string>
+    <string name="login">Login</string>
+    <string name="lat_long">latitude &amp; longitude</string>
+
+    <string name="agree_tnc_one">by proceeding, you agree to the</string>
+    <string name="opt_message">we have send a 6 digit OTP to  xxxxxx6378</string>
+
+    <!--  MESSAGE-->
+    <string name="logout_alert_message">Are you sure you want to logout?</string>
+    <string name="pop_alert_message">Are you sure you want to go back?</string>
+    <string name="staff_view_msg">staff management and disable the service if we are not offering  for the day</string>
+
+    <!--  BUTTON-->
+    <string name="retry">Try again</string>
+    <string name="contin">continue</string>
+    <string name="register">register</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="close">Close</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="print_bill">print bill</string>
+    <string name="bck_home">back to home</string>
+    <string name="bill">generate bill</string>
+
+    <!--  Validation-->
+    <string name="mob_validation">enter valid mobile number</string>
+
+</resources>
